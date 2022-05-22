@@ -65,5 +65,6 @@ after complete sign up steps successfully , you can add your your meal informati
 by click in requests button will see all request complete and pending.
 start getting request offers from customers will get notifications and describe to accept it or not. 
 
+### Customer Flow Chart
 ![flow](https://user-images.githubusercontent.com/59260120/169712587-e5063641-6685-453f-b981-01ec54b5f9af.png)
 
