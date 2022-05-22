@@ -68,3 +68,5 @@ start getting request offers from customers will get notifications and describe 
 ### Customer Flow Chart
 ![flow](https://user-images.githubusercontent.com/59260120/169712587-e5063641-6685-453f-b981-01ec54b5f9af.png)
 
+### Chef Flow Chart
+![CHART](https://user-images.githubusercontent.com/59260120/169712812-b39a02d5-7589-469b-a884-1249408ac538.png)
